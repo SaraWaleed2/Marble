@@ -1,0 +1,15 @@
+.container {
+  width: 80%;
+  text-align: center;
+  margin: auto;
+  margin-top: 200px;
+}
+
+.container h2 {
+  font-size: 45px;
+  margin-bottom: 45px;
+}
+
+.container img {
+  margin: 0 10px;
+}
